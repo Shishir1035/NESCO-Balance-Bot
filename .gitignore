@@ -1,0 +1,12 @@
+# Environment variables — never commit real tokens
+.env
+.venv/
+venv/
+env/
+
+# Debug output
+debug_response.html
+
+# IDE
+.vscode/
+.idea/
